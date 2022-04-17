@@ -1,0 +1,4 @@
+@echo off
+python jsonToSRT.py
+echo ¥¶¿ÌÕÍ±œ
+pause
