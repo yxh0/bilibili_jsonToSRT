@@ -1,4 +1,4 @@
 @echo off
 python jsonToSRT.py
-echo ¥¶¿ÌÕÍ±œ
+echo 'conversion completed'
 pause
